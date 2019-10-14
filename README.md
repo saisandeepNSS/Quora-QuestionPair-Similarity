@@ -1,3 +1,6 @@
+>If you are unable to view the IPYNB notebook in GitHub, Please copy the GitHub notebook URL and paste it in [nbviewer](https://nbviewer.jupyter.org/).
+
+
 # Quora Question Pairs 
 
 ## 1. Business Problem 
